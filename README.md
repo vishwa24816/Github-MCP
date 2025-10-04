@@ -1,4 +1,4 @@
-# 🐙 GitHub MCP Agent
+# GitHub MCP Agent
 
 A Streamlit application that allows you to explore and analyze GitHub repositories using natural language queries through the Model Context Protocol (MCP).
 
@@ -24,10 +24,6 @@ A Streamlit application that allows you to explore and analyze GitHub repositori
 ### Installation
 
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-   cd mcp-github-agent
-   ```
 
 2. Install the required Python packages:
    ```bash
